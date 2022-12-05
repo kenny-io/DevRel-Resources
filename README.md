@@ -25,7 +25,7 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 - [Defining Developer Relations](https://www.leggetter.co.uk/2016/02/03/defining-developer-relations.html)
 - [A Framework for Developer Relations.](https://devrelbook.substack.com/p/a-framework-for-developer-relations?s=r)
 - [How to Start Doing Dev Rel Right Now](https://www.samjulien.com/how-to-start-doing-dev-rel-right-now)
-- [Top 100 DevRel influencers](https://www.ecairn.com/blog/update-top-100-devrel#.YlZqdWQ40QA.twitter=)
+- [Top 100 DevRel influencers](https://www.ecairn.com/blogs/blog-post-title-three-359w4-m4er9-j3rk2)
 - [Adventures in Solo DevRel Notes | Taylor Barnett](https://taylorbar.net/posts/adventures-in-solo-devrel-notes/)
 
 #### Videos
