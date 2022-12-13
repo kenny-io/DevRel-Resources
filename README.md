@@ -10,6 +10,8 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
   - [Articles](###Articles)
   - [Tools](###Tools)
   - [DevRel Events](###Events)
+  - [DevRel Books](###Books)
+  
 
 ### Resources
 
@@ -32,6 +34,10 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 
 - [A Youtube Channel that covers wide sessions of DevRel](https://www.youtube.com/user/jonobacon)
 - [Organizing DevRel Events and Conferences](https://youtu.be/ROsh9cQMyvo)
+
+### DevRel Events
+- [DevRel Con](https://developerrelations.com/devrelcon)
+
 
 ### Contribution
 
